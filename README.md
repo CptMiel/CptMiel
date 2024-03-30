@@ -11,9 +11,8 @@
 
 ## 📫 How to reach me:
 
+[![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=%23C6F1C7)](https://www.linkedin.com/in/danielsilvati/){:target="_blank"}
 [![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=%23C6F1C7)](mailto:daniel.rs0827@gmail.com)
-<a href="https://www.linkedin.com/in/danielsilvati/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=%23C6F1C7" alt="Static Badge"></a>
 
 ## 👨🏻‍💻 Languages and Tools
 
