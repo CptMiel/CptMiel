@@ -22,7 +22,6 @@
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23C6F1C7)
 ![Static Badge](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=%23C6F1C7)
 ![Static Badge](https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23C6F1C7)
-![Static Badge](https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23C6F1C7)
 ![Static Badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=%23C6F1C7)
 
 </div>
